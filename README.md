@@ -15,6 +15,7 @@
 
 Контакты: 
  • kishevahmed0@yandex.ru
+ 
  • Telegram: https://t.me/geralt_is_r1v11
 
  
