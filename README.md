@@ -13,9 +13,8 @@
 • API/Документация: Swagger, Postman
 • Интеграция: Apache Kafka, Apache Avro, Protobuf, gRPC 
 
-Контакты: 
- • kishevahmed0@yandex.ru
- 
- • Telegram: https://t.me/geralt_is_r1v11
+Контакты:  
+ • kishevahmed0@yandex.ru  
+ • Telegram: https://t.me/geralt_is_r1v11  
 
  
