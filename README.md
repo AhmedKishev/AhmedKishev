@@ -16,7 +16,3 @@
 Контакты:  
  • kishevahmed0@yandex.ru  
  • Telegram: https://t.me/geralt_is_r1v11  
-
-
-
- ![Статистика](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_title=true)
